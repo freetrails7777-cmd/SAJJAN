@@ -1,0 +1,33 @@
+SYSTEM REPORT
+Computer Name : SAJJAN
+Generated On  : 2026-05-11 17:55:11
+User          : Sajja
+OS            : Microsoft Windows 11 Home Single Language
+Version       : [Version]10.0.26200
+=== Tree for A: (A:\) ===
+Folder PATH listing for volume New Volume
+Volume serial number is DC69-678A
+A:\
+No subfolders exist 
+
+
+
+=== Tree for C: (C:\Users\Public) ===
+Folder PATH listing for volume Windows
+Volume serial number is B224-CD66
+C:\USERS\PUBLIC
++---Documents
++---Downloads
++---Music
++---Pictures
+\---Videos
+
+
+=== Tree for D: (D:\) ===
+Folder PATH listing for volume New Volume
+Volume serial number is B85D-BB23
+D:\
+No subfolders exist 
+
+
+
